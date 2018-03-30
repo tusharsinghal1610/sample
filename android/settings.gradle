@@ -1,0 +1,3 @@
+rootProject.name = 'Sale365'
+
+include ':app'
